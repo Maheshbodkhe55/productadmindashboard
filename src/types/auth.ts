@@ -6,4 +6,5 @@ export interface User {
   lastName: string;
   image?: string;
   token?: string;
+  accessToken?: string;
 }
